@@ -1,0 +1,9 @@
+.Home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.HomeWelcome {
+    margin-left: 20px;
+}
